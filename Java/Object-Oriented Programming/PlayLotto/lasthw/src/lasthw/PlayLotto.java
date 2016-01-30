@@ -1,4 +1,4 @@
-// Student Name: Stephanie Asling
+// Student Name: Stephanie A****g
 // Submission Date: 27 April 2015
 // Assignment: HW5/6 Lotto Games
 // Code includes: abstract class
