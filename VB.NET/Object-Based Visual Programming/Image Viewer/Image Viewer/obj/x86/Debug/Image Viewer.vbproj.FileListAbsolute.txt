@@ -1,0 +1,14 @@
+C:\Users\korina\AppData\Local\Temporary Projects\Image Viewer\bin\Debug\Image Viewer.exe
+C:\Users\korina\AppData\Local\Temporary Projects\Image Viewer\bin\Debug\Image Viewer.pdb
+C:\Users\korina\AppData\Local\Temporary Projects\Image Viewer\bin\Debug\Image Viewer.xml
+C:\Users\korina\AppData\Local\Temporary Projects\Image Viewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\korina\AppData\Local\Temporary Projects\Image Viewer\obj\x86\Debug\Image_Viewer.Form1.resources
+C:\Users\korina\AppData\Local\Temporary Projects\Image Viewer\obj\x86\Debug\Image_Viewer.Resources.resources
+C:\Users\korina\AppData\Local\Temporary Projects\Image Viewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\korina\AppData\Local\Temporary Projects\Image Viewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\korina\AppData\Local\Temporary Projects\Image Viewer\obj\x86\Debug\Image Viewer.exe
+C:\Users\korina\AppData\Local\Temporary Projects\Image Viewer\obj\x86\Debug\Image Viewer.xml
+C:\Users\korina\AppData\Local\Temporary Projects\Image Viewer\obj\x86\Debug\Image Viewer.pdb
+C:\Users\korina\Desktop\Image Viewer\Image Viewer\obj\x86\Debug\Image Viewer.exe
+C:\Users\korina\Desktop\Image Viewer\Image Viewer\obj\x86\Debug\Image Viewer.xml
+C:\Users\korina\Desktop\Image Viewer\Image Viewer\obj\x86\Debug\Image Viewer.pdb

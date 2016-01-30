@@ -1,0 +1,31 @@
+PROGRAM CHANGELOG
+
+Changes made to sequence2.cpp:
+
+1: sequence2.cpp:10
+// ***************************************
+// CHANGED capacity = DEFAULT_CAPACITY TO
+//         capacity = initial_capacity
+// ***************************************
+reason: wrong variable usage
+
+2: sequence2.cpp:55
+// ****************************************
+// CHANGED if(new_capacity > capacity) TO
+//         if(new_capacity > used)
+// ****************************************
+reason: wrong variable usage
+
+3: sequence2.cpp:62
+// ********************************************************
+// CHANGED value_type* temp = new value_type(capacity) TO
+//         value_type* temp = new value_type[capacity]
+// ********************************************************
+reason: syntactical error (using () instead of [])
+
+4: sequence2.cpp:137
+// ****************************************************************
+// CHANGED for(size_type i = used; i > current_index + 1; --i) TO
+//         for(size_type i = used; i > current_index; --i)
+// ****************************************************************
+reason: indexing error

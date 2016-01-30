@@ -1,0 +1,5 @@
+dog 1 cat 39 bird 83 elephant 3 giraffe 93 ferret 344
+fish
+388
+kangaroo 22 hedgehog
+2

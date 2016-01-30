@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Font Size Changer</title>
+        <style type="text/css" media="screen">
+            body{
+                margin:0;
+                padding:0;
+                font-family:arial;
+                background-color:#ccc;
+            }
+            
+            #page{
+                font-size:12px;
+                width:600px;
+                margin:0 auto;
+                background-color:#fff;
+                border:1px solid #888;
+            }
+            
+            #header{
+                border-bottom:1px solid #888;
+                padding:20px 30px;
+            }
+            
+                #header h1{
+                    margin:0;
+                }
+                
+                #header ul#size{
+                    list-style:none;
+                    float:right;
+                }
+                
+                    #header ul#size li{
+                        float:left;
+                        padding-left:3px;
+                    }
+            
+            #content p{
+                padding:0 30px;
+            }
+            
+            #footer{
+                border-top:1px solid #888;
+                padding:0 30px;
+            }
+        </style>
+        <script type="text/javascript" charset="utf-8">
+            window.onload = function(){
+                if(document.location.search != ""){
+                    var qs = document.location.search.substring(1, document.location.search.length);
+                    var pair = qs.split("=");
+                    
+                    if(pair[0] == "size"){
+                        var page = document.getElementById("page");
+                        page.style.fontSize = pair[1] + "px";
+                    }
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <div id="page">
+            <div id="header">
+                <ul id="size">
+                    <li><a href="fontsizechanger.html?size=9">small</a> |</li>
+                    <li><a href="fontsizechanger.html">medium</a> |</li>
+                    <li><a href="fontsizechanger.html?size=24">large</a> |</li>
+                </ul>
+                <h1>Font Size Changer</h1>
+            </div>
+            <div id="content">
+                <p>
+                    Lorem ipsum dolor sit amet, ad maiorum erroribus qui. Ad quando option vis, has ea prima animal minimum. Ei enim menandri adversarium vim. Nibh nostro laboramus no mea, in vim tale falli, ad quo enim bonorum. Cu posse noluisse eam, ad has sonet molestie, quo at unum cibo consetetur. Laudem postea nostrud ut mel, errem conclusionemque in duo.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, ad maiorum erroribus qui. Ad quando option vis, has ea prima animal minimum. Ei enim menandri adversarium vim. Nibh nostro laboramus no mea, in vim tale falli, ad quo enim bonorum. Cu posse noluisse eam, ad has sonet molestie, quo at unum cibo consetetur. Laudem postea nostrud ut mel, errem conclusionemque in duo.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, ad maiorum erroribus qui. Ad quando option vis, has ea prima animal minimum. Ei enim menandri adversarium vim. Nibh nostro laboramus no mea, in vim tale falli, ad quo enim bonorum. Cu posse noluisse eam, ad has sonet molestie, quo at unum cibo consetetur. Laudem postea nostrud ut mel, errem conclusionemque in duo.
+                </p>
+            </div>
+            <div id="footer">
+                <p>
+                    Copyright &copy; 2012
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

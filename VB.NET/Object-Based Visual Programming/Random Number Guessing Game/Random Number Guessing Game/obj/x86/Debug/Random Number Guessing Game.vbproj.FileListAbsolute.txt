@@ -1,0 +1,14 @@
+C:\Users\korina\AppData\Local\Temporary Projects\Random Number Guessing Game\bin\Debug\Random Number Guessing Game.exe
+C:\Users\korina\AppData\Local\Temporary Projects\Random Number Guessing Game\bin\Debug\Random Number Guessing Game.pdb
+C:\Users\korina\AppData\Local\Temporary Projects\Random Number Guessing Game\bin\Debug\Random Number Guessing Game.xml
+C:\Users\korina\AppData\Local\Temporary Projects\Random Number Guessing Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\korina\AppData\Local\Temporary Projects\Random Number Guessing Game\obj\x86\Debug\Random_Number_Guessing_Game.Form1.resources
+C:\Users\korina\AppData\Local\Temporary Projects\Random Number Guessing Game\obj\x86\Debug\Random_Number_Guessing_Game.Resources.resources
+C:\Users\korina\AppData\Local\Temporary Projects\Random Number Guessing Game\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\korina\AppData\Local\Temporary Projects\Random Number Guessing Game\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\korina\AppData\Local\Temporary Projects\Random Number Guessing Game\obj\x86\Debug\Random Number Guessing Game.exe
+C:\Users\korina\AppData\Local\Temporary Projects\Random Number Guessing Game\obj\x86\Debug\Random Number Guessing Game.xml
+C:\Users\korina\AppData\Local\Temporary Projects\Random Number Guessing Game\obj\x86\Debug\Random Number Guessing Game.pdb
+C:\Users\korina\Desktop\Random Number Guessing Game\Random Number Guessing Game\obj\x86\Debug\Random Number Guessing Game.exe
+C:\Users\korina\Desktop\Random Number Guessing Game\Random Number Guessing Game\obj\x86\Debug\Random Number Guessing Game.xml
+C:\Users\korina\Desktop\Random Number Guessing Game\Random Number Guessing Game\obj\x86\Debug\Random Number Guessing Game.pdb

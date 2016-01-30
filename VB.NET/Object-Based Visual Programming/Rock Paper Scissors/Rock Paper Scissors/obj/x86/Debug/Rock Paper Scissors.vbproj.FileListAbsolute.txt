@@ -1,0 +1,14 @@
+C:\Users\korina\AppData\Local\Temporary Projects\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
+C:\Users\korina\AppData\Local\Temporary Projects\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
+C:\Users\korina\AppData\Local\Temporary Projects\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.xml
+C:\Users\korina\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\korina\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock_Paper_Scissors.Form1.resources
+C:\Users\korina\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock_Paper_Scissors.Resources.resources
+C:\Users\korina\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\korina\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\korina\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.exe
+C:\Users\korina\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.xml
+C:\Users\korina\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.pdb
+C:\Users\korina\Desktop\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.exe
+C:\Users\korina\Desktop\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.xml
+C:\Users\korina\Desktop\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.pdb

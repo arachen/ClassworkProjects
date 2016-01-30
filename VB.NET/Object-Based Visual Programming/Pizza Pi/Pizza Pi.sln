@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pizza Pi", "Pizza Pi\Pizza Pi.vbproj", "{41330A30-4BFD-4CEB-B6FB-4A3406E431CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41330A30-4BFD-4CEB-B6FB-4A3406E431CE}.Debug|x86.ActiveCfg = Debug|x86
+		{41330A30-4BFD-4CEB-B6FB-4A3406E431CE}.Debug|x86.Build.0 = Debug|x86
+		{41330A30-4BFD-4CEB-B6FB-4A3406E431CE}.Release|x86.ActiveCfg = Release|x86
+		{41330A30-4BFD-4CEB-B6FB-4A3406E431CE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

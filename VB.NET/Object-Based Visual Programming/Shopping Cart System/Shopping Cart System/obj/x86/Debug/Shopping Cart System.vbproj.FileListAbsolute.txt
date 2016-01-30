@@ -1,0 +1,13 @@
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\obj\x86\Debug\Shopping_Cart_System.AudioBooks.resources
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\obj\x86\Debug\Shopping_Cart_System.MainForm.resources
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\obj\x86\Debug\Shopping_Cart_System.Resources.resources
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\obj\x86\Debug\Shopping_Cart_System.PrintBooks.resources
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\bin\Debug\Shopping Cart System.exe
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\bin\Debug\Shopping Cart System.pdb
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\bin\Debug\Shopping Cart System.xml
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\obj\x86\Debug\Shopping Cart System.exe
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\obj\x86\Debug\Shopping Cart System.xml
+C:\Users\korina\Desktop\Shopping Cart System\Shopping Cart System\obj\x86\Debug\Shopping Cart System.pdb

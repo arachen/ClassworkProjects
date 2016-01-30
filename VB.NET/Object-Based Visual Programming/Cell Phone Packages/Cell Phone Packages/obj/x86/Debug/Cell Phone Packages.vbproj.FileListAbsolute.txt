@@ -1,0 +1,13 @@
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\bin\Debug\Cell Phone Packages.exe
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\bin\Debug\Cell Phone Packages.pdb
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\bin\Debug\Cell Phone Packages.xml
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell_Phone_Packages.CellPhonePackages.resources
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell_Phone_Packages.FamilyPlan.resources
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell_Phone_Packages.IndividualPlan.resources
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell_Phone_Packages.Resources.resources
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell Phone Packages.exe
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell Phone Packages.xml
+C:\Users\korina\Desktop\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell Phone Packages.pdb
