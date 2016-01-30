@@ -1,4 +1,4 @@
-// Name: Stephanie Asling
+// Name: Stephanie A****g
 // Due Date: 9/2/2015
 // Program 1
 // Header
