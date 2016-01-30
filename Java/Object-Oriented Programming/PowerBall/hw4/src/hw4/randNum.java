@@ -1,4 +1,4 @@
-// Student Name: Stephanie Asling
+// Student Name: Stephanie A****g
 // Submission Date: 25 March 2015
 // Assignment: HW4 Random Number Generator
 
