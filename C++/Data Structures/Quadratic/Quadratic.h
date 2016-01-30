@@ -1,4 +1,4 @@
-// Stephanie Asling
+// Stephanie A****g
 // Program 2
 // September 21, 2015
 
