@@ -1,4 +1,4 @@
-//student name: Stephanie Asling 
+//student name: Stephanie A****g
 //Date: 21 January 2015
 //Name of hw: HW#1: profit for stocks 
 //due 1-29-2014 (Wed.) at 10:00 am 
