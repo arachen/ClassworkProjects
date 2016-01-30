@@ -55,12 +55,7 @@ int main(void)
         return 1;
     }
 
-    // Creates a new string array with the size headernum. NOTE: I discovered this method of creating arrays after
-    // reading up about string and char arrays. Although it isn't a 2D array, it works very well and seems to be
-    // more efficient! Truthfully, I couldn't figure out how to store each individual char as strings into the 2D array,
-    // so I found this works as an alternative.. Hopefully I can speak to a tutor or the professor about this before the due
-    // date, but if not (and this is still here), I understand if this part does not satisfy the program requirement of using
-    // a 2D array to store the input file's contents as strings.
+    // Creates a new string array with the size headernum. 
     string *names = new string[headernum];
 
     // Stores the contents of the input file as strings in the array
