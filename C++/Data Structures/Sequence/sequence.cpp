@@ -1,4 +1,4 @@
-// Name: Stephanie Asling
+// Name: Stephanie A****g
 // Date: 9/30/15
 // Class: Data Structures
 // Assignment: Program 3: Sequence
