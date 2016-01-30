@@ -1,4 +1,4 @@
-// Asling, Stephanie
+// Stephanie A****g
 // Assignment 6 Question 1
 // Status: Compiles
 // Help: None
